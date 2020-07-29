@@ -130,4 +130,6 @@ for measure in range(1, 9):
 ```
 
 ## End of course survey
-Please take [This Survey](https://docs.google.com/forms/d/1brzBg0H_rl3MUJVzonJR5nFNKazMsT64aFyKTXKVUGQ/edit) about
+Please take [This Survey](https://docs.google.com/forms/d/1brzBg0H_rl3MUJVzonJR5nFNKazMsT64aFyKTXKVUGQ/edit) about the Python Techademy.
+
+Thank you all! Good luck with your next projects.
